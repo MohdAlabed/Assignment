@@ -1,0 +1,80 @@
+- EXPERIENCE
+
+
+IBM Data Science Professional Certificate
+Coursera 03/2024 - present Amman, Jordan
+
+Microsoft Services
+11/2023 - 01/2024 Amman, Jordan
+
+JavaScript and GIS Training
+
+
+GISTEC
+09/2022 - 10/2022 Amman, Jordan
+
+- HARD SKILLS
+Python
+
+C++
+
+
+ASP.NET
+
+
+CSS
+Execl Java
+
+SQL
+
+
+HTML
+BootStrap Familiar With: PHP * C# * MS SQL * JavaScrip
+
+- EDUCATION
+
+
+Bachelor's Degree in Business Information Technology
+The University of Jordan GPA: 3.38 (Very Good) 10/2019 - 07/2023 Amman, Jordan
+
+- The candadit has: 0 years of experience and is applaying for the Senior Software Developer position
+
+- Candadit's questions and answers:
+
+Q:1. **Describe a situation where you had to debug a complex software issue in a large codebase. How did you approach the problem, and what tools or techniques did you employ? (2) 
+ A:In a previous role, I encountered a complex software issue in a large codebase where a critical feature was intermittently failing. I approached the problem by first gathering detailed logs and error messages to pinpoint when and where the issue occurred. Using debugging tools like breakpoints in the IDE, I traced the execution flow and examined variable values to identify anomalies. Collaborating with team members, we reviewed the code together, conducting peer reviews and brainstorming sessions to explore potential causes and solutions. Ultimately, isolating the root cause required meticulous attention to detail and systematic testing of hypotheses until we successfully resolved the issue.
+Q:2. **Explain the trade-offs involved in choosing between a relational database (MS SQL) and a NoSQL database for a specific application. When would you choose one over the other? (2) 
+ A:Choosing between MS SQL (a relational database) and a NoSQL database involves:  Relational Database (MS SQL):  Strengths: Strong consistency, ACID transactions, structured data. Trade-offs: Less flexible schema, vertical scalability. NoSQL Database:  Strengths: Flexible schema, horizontal scalability, high performance. Trade-offs: Eventual consistency, may lack ACID transactions for all operations. Choose MS SQL for structured data with complex relationships and transactions. Choose NoSQL for scalability, flexibility with semi-structured or unstructured data, and high performance.
+Q:3. **How would you architect a RESTful API using ASP.NET Web API to handle a large number of concurrent requests? What considerations would you take into account for performance and scalability? (3) 
+ A:To architect a RESTful API in ASP.NET Web API for handling a large number of concurrent requests:  Use Asynchronous Programming: Utilize async/await to handle I/O-bound operations efficiently without blocking threads.  Implement Caching: Employ caching mechanisms (e.g., in-memory caching, distributed caching with Redis) to reduce database load and improve response times.  Optimize Database Access: Use connection pooling, optimize queries, and consider database sharding or partitioning for scalability.  Scale Horizontally: Deploy multiple API instances behind a load balancer to distribute traffic and handle more concurrent requests.  Monitor and Tune: Continuously monitor performance metrics, identify bottlenecks, and fine-tune configurations (e.g., thread pool settings, request timeouts) accordingly.  These measures help ensure performance and scalability under high loads in a RESTful API built with ASP.NET Web API.
+Q:4. **You are tasked with optimizing the performance of a Python web application. What are some common bottlenecks you would investigate, and how would you approach identifying and addressing them? (2) 
+ A:Common bottlenecks in Python web applications often include:  Database Queries: Optimize queries, use indexes, and consider caching strategies. CPU Bound Tasks: Profile code, optimize algorithms, and consider parallelism or async. I/O Operations: Use async I/O, caching, and minimize blocking calls. Memory Leaks: Monitor memory usage, identify leaks with profiling tools, and optimize data structures. To address these, I'd start with profiling tools like cProfile or line_profiler, optimize critical paths, and implement caching and async techniques where appropriate.
+Q:5. **Explain the difference between inheritance and composition in object-oriented programming. Provide examples of when each is a better choice. (1) 
+ A:nheritance allows one class to inherit properties and methods from another, promoting code reuse and creating an "is-a" relationship (e.g., a Car is a Vehicle). Composition involves creating objects within another class to achieve more complex behaviors, forming a "has-a" relationship (e.g., a Car has an Engine). Use inheritance when there is a clear hierarchical relationship and you want to reuse code; use composition when you need flexibility and want to create complex objects from simpler ones.
+Q:6. **Describe how you would use CSS preprocessors like SASS or LESS to improve the maintainability and scalability of a complex web application's stylesheets. (2) 
+ A:CSS preprocessors like SASS or LESS improve maintainability and scalability of web application stylesheets by enabling variables for consistent values, mixins for reusable styles, nesting for hierarchical structure, and functions for complex calculations. This results in cleaner, more organized code that is easier to maintain and extend as the application grows.
+Q:7. **You are working on a project where the frontend team is using React and the backend team is using Spring Boot. Explain how you would approach integrating the two technologies, considering data transfer and communication protocols. (3) 
+ A:To integrate React frontend with Spring Boot backend:  Use RESTful APIs for data transfer. Define clear JSON data structures for communication. Ensure CORS is configured correctly. Implement authentication and authorization mechanisms. Use Axios or Fetch API for making HTTP requests from React to Spring Boot.
+Q:8. **How would you use unit testing and integration testing to ensure the quality and reliability of your code during development? (1) 
+ A:Unit testing ensures that individual units of code (functions, methods) work correctly in isolation, while integration testing verifies that these units work together as expected in the entire system. By writing and running unit tests frequently during development and integration tests before deployment, we ensure code quality and reliability at both micro and macro levels of the application.
+Q:9. **Explain the concept of SOLID principles in object-oriented programming. How do they contribute to building maintainable and extensible code? (2) 
+ A:SOLID principles in object-oriented programming are guidelines to help developers create more maintainable and extensible software:  Single Responsibility Principle (SRP): Each class should have only one reason to change. Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification. Liskov Substitution Principle (LSP): Subtypes must be substitutable for their base types without altering correctness. Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use. Dependency Inversion Principle (DIP): Depend on abstractions, not concrete implementations. Following these principles reduces code fragility, improves code readability, and facilitates easier maintenance and scalability over time.
+Q:10. **Describe your experience with agile development methodologies like Scrum or Kanban. How have you applied these methodologies to improve project collaboration and efficiency? (1) 
+ A:In my experience with agile methodologies like Scrum and Kanban, I've seen significant improvements in project collaboration and efficiency. By implementing daily stand-ups, sprint planning, and iterative feedback loops, teams can adapt quickly to changing requirements and deliver high-quality results on time.
+
+
+- Candadit's grades:
+ ## Total Grade: 79
+
+Here's the breakdown of the grades for each question-answer pair:
+
+* **Question 1:**  (2) - **Grade: 20**
+* **Question 2:**  (2) - **Grade: 18**
+* **Question 3:**  (3) - **Grade: 21**
+* **Question 4:**  (2) - **Grade: 18**
+* **Question 5:**  (1) - **Grade: 10**
+* **Question 6:**  (2) - **Grade: 18**
+* **Question 7:**  (3) - **Grade: 21**
+* **Question 8:**  (1) - **Grade: 10**
+* **Question 9:**  (2) - **Grade: 18**
+* **Question 10:** (1) - **Grade: 10** 
