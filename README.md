@@ -24,6 +24,6 @@ The System works on readable PDF files. Pymupdf is used to read uploaded PDF fil
 7. Finally, everything is written on to the CV_Report.txt as the report of the CV.
 
 ## Files
-1. CV.pdf the resume used as an input.
-2. code 
-3. CV_Report.txt the output
+1. CV.pdf: the resume used as an input.
+2. cvreader_code.ipynb: code 
+3. CV_Report.txt: the output
